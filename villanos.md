@@ -1,5 +1,5 @@
 # Villanos
 
-* Dr. Doom
-* Red Skull
-* Thanos
+- Dr. Doom
+- Red Skull
+- Thanos
